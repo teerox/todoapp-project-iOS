@@ -22,9 +22,13 @@ class Card: UICollectionViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        
+        //singleTodoTableView.backgroundColor = UIColor.red
         
     }
+    
+    
+    
+    
     
 }
 

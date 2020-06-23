@@ -6,4 +6,7 @@
 //  Copyright © 2020 Decagon. All rights reserved.
 //
 
-import Foundation
+"task" = "Tasks";
+"list" = "Lists";
+"add" = "Add";
+"addlist" = "Add List";

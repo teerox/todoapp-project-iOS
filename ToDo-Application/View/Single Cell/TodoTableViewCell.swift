@@ -22,6 +22,7 @@ class TodoTableViewCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        
         checkBok.checkedBorderColor = .black
         checkBok.uncheckedBorderColor = .black
         checkBok.checkmarkColor = .red

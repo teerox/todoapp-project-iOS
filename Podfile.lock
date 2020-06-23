@@ -1,0 +1,42 @@
+PODS:
+  - Floaty (4.2.0)
+  - iOSDropDown (0.3.4)
+  - RandomColorSwift (2.0.0)
+  - Realm (4.4.0):
+    - Realm/Headers (= 4.4.0)
+  - Realm/Headers (4.4.0)
+  - RealmSwift (4.4.0):
+    - Realm (= 4.4.0)
+  - SimpleCheckbox (2.1.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Floaty (~> 4.2.0)
+  - iOSDropDown
+  - RandomColorSwift
+  - RealmSwift
+  - SimpleCheckbox
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Floaty
+    - iOSDropDown
+    - RandomColorSwift
+    - Realm
+    - RealmSwift
+    - SimpleCheckbox
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  RandomColorSwift: d18b9b025403137b5543a002187489b06cc1782b
+  Realm: e125f464884cda953ebefe70c671b75b03b81b9b
+  RealmSwift: 33656a42bd300959a081fc13347376bc478071af
+  SimpleCheckbox: ddcd433ab8c3a8f57300bebda13151a8f302c7f9
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: e9ae032f4553c7e121fd54dacb57f6cc02824b5b
+
+COCOAPODS: 1.9.1

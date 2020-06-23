@@ -70,11 +70,6 @@
             </view>
             <viewLayoutGuide key="safeArea" id="OWB-rv-aUr"/>
             <size key="customSize" width="275" height="50"/>
-            <connections>
-                <outlet property="checkBok" destination="NBu-kt-LzG" id="SNe-Ke-MvL"/>
-                <outlet property="date" destination="9br-bC-ALb" id="CyQ-lP-szm"/>
-                <outlet property="todoItem" destination="FWd-kG-BM5" id="4qg-3O-kpr"/>
-            </connections>
             <point key="canvasLocation" x="47.10144927536232" y="64.955357142857139"/>
         </collectionViewCell>
     </objects>

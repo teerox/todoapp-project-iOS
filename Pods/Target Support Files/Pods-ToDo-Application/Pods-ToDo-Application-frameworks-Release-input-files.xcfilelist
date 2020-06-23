@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-ToDo-Application/Pods-ToDo-Application-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Floaty/Floaty.framework
+${BUILT_PRODUCTS_DIR}/RandomColorSwift/RandomColorSwift.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SimpleCheckbox/SimpleCheckbox.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework
